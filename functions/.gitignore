@@ -3,3 +3,4 @@ util/config.js
 .vscode
 .vscode/settings.json
 .firebaserc
+firebase.json
