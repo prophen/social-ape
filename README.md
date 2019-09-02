@@ -48,7 +48,7 @@ API Base URL: https://europe-west1-socialape-d081e....
 ⌨️ (10:16:29) Submitting comments
 ⌨️ (10:37:28) User Page
 ⌨️ (10:54:30) Notifications
-⌨️ (11:31:59) Loading Skeletons
+⌨️ (11:31:59) Loading Skeletons  
 ⌨️ (11:59:28) Deployment to Firebase
 
 --
