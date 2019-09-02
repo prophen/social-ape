@@ -1,0 +1,5 @@
+node_modules/
+util/config.js
+.vscode
+.vscode/settings.json
+.firebaserc
