@@ -194,6 +194,7 @@ exports.unlikeScream = (req, res) => {
       res.status(500).json({ error: err.code })
     })
 }
+//shouldn't we delete comments when screams are deleted?
 exports.deleteScream = (req, res) => {
   const document = db.doc(`/screams/${req.params.screamId}`)
   document
